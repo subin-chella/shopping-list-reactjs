@@ -1,4 +1,6 @@
+The app can be tried here.
 
+https://sharp-goldstine-f861e9.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/22959614/91194509-d6112a00-e715-11ea-9100-33eaa2b429f8.png)
 
